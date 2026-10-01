@@ -1,0 +1,11 @@
+scenario_id,person_id,source_image,output_image,lighting,camera,pose,blur,noise,quality,skin_tone,age,random_seed
+scenario_0001,person1,person1.jpg,scenario_0001.jpg,left_soft_warm,slight_left,frontal,,,low,,older,42
+scenario_0002,person1,person1.jpg,scenario_0002.jpg,right_hard_warm,frontal,,light,light,,pale,,42
+scenario_0003,person1,person1.jpg,scenario_0003.jpg,,,,light,light,medium,light_brown,young,42
+scenario_0004,person1,person1.jpg,scenario_0004.jpg,,left,frontal,,light,,light_brown,young,42
+scenario_0005,person1,person1.jpg,scenario_0005.jpg,front_soft_neutral,,tilt_down,,medium,low,,,42
+scenario_0006,person1,person1.jpg,scenario_0006.jpg,,slight_right,frontal,,light,,pale,,42
+scenario_0007,person1,person1.jpg,scenario_0007.jpg,left_hard_neutral,slight_right,tilt_right,light,,,dark_brown,,42
+scenario_0008,person1,person1.jpg,scenario_0008.jpg,,frontal,tilt_right,,,low,,,42
+scenario_0009,person1,person1.jpg,scenario_0009.jpg,,right,tilt_up,,medium,medium,fair,,42
+scenario_0010,person1,person1.jpg,scenario_0010.jpg,right_soft_cool,frontal,,,,medium,dark_brown,young,42

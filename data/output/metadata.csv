@@ -1,0 +1,32 @@
+person_id,original_image,output_path,condition,variation,value
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\lighting\front_soft_neutral.jpg,lighting,front_soft_neutral,direction=front;hardness=soft;temperature=neutral;exposure=0.0;intensity=0.25
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\lighting\left_soft_warm.jpg,lighting,left_soft_warm,direction=left;hardness=soft;temperature=warm;exposure=0.1;intensity=0.35
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\lighting\right_soft_cool.jpg,lighting,right_soft_cool,direction=right;hardness=soft;temperature=cool;exposure=0.1;intensity=0.35
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\lighting\left_hard_neutral.jpg,lighting,left_hard_neutral,direction=left;hardness=hard;temperature=neutral;exposure=0.0;intensity=0.45
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\lighting\right_hard_warm.jpg,lighting,right_hard_warm,direction=right;hardness=hard;temperature=warm;exposure=-0.1;intensity=0.45
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\lighting\top_soft_neutral.jpg,lighting,top_soft_neutral,direction=top;hardness=soft;temperature=neutral;exposure=0.0;intensity=0.35
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\lighting\bottom_soft_cool.jpg,lighting,bottom_soft_cool,direction=bottom;hardness=soft;temperature=cool;exposure=-0.1;intensity=0.3
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\camera\frontal.jpg,camera_angle,frontal,strength=0.0
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\camera\slight_left.jpg,camera_angle,slight_left,strength=0.08
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\camera\slight_right.jpg,camera_angle,slight_right,strength=0.08
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\camera\left.jpg,camera_angle,left,strength=0.14
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\camera\right.jpg,camera_angle,right,strength=0.14
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\pose\frontal.jpg,pose,frontal,strength=0.0
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\pose\tilt_left.jpg,pose,tilt_left,strength=0.5
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\pose\tilt_right.jpg,pose,tilt_right,strength=0.5
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\pose\tilt_up.jpg,pose,tilt_up,strength=0.35
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\pose\tilt_down.jpg,pose,tilt_down,strength=0.35
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\blur\light.jpg,blur,light,"kernel=(5, 5);sigma=0"
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\blur\medium.jpg,blur,medium,"kernel=(11, 11);sigma=0"
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\noise\light.jpg,noise,light,10
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\noise\medium.jpg,noise,medium,25
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\quality\high.jpg,quality,high,90
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\quality\medium.jpg,quality,medium,60
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\quality\low.jpg,quality,low,30
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\skin_tone\pale.jpg,skin_tone,pale,y_scale=1.2;y_offset=15;cr_shift=-5;cb_shift=5
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\skin_tone\fair.jpg,skin_tone,fair,y_scale=1.0;y_offset=0;cr_shift=0;cb_shift=0
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\skin_tone\light_brown.jpg,skin_tone,light_brown,y_scale=0.75;y_offset=-10;cr_shift=5;cb_shift=-5
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\skin_tone\dark_brown.jpg,skin_tone,dark_brown,y_scale=0.5;y_offset=-20;cr_shift=10;cb_shift=-10
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\age\young.jpg,age,young,smooth youthful appearance
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\age\adult.jpg,age,adult,neutral adult appearance
+person1,person1.jpg,C:\Users\amvai\Downloads\Synthetic-Image-Generator-main\Synthetic-Image-Generator-main\data\output\person1\age\older.jpg,age,older,enhanced texture and local contrast
